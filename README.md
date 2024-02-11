@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to my new profile!
-I am Fabian Quist, a german 🇩🇪 student @42Heilbronn in Germany.
+Welcome to my profile!
+I am Fabian Quist, a german 🇩🇪 software engineer / software consultant and alumni @42Heilbronn in Germany.
 
-Intra: Fquist | Coalition: Area 42 👽
+42 Intra: Fquist
